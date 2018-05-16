@@ -1,5 +1,5 @@
 ## Scrimba - Introduction to CSS 
-##### Lessons 1-20. Date started: 05/15/2018. [Link to course](https://scrimba.com/g/gintrotocss) 
+##### Lessons 1 to 20. Date started: 05/15/2018. [Link to course](https://scrimba.com/g/gintrotocss) 
 - - -
 ### Lesson 1.1 Welcome
 
