@@ -5,6 +5,8 @@
 
 `npx serve --ssl`- for ssl certificate but Chrome won't like the certificate.
 
+Here's instructions for port forwarding to access localhost:8000 on my phone - https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server
+
 
 - - -
 Return to [Table of Contents](TableOfContents.md)
