@@ -322,6 +322,7 @@ async function getAsyncData() {
 
 getAsyncData();
 ```
+result: `resolved`
 - - -
 ### Lesson 22 Sets
 
